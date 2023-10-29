@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7420212a-aab7-4027-a39f-6541bd05ba9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Payable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PaymentProcessor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Program.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Retired.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Student.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/User.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7420212a-aab7-4027-a39f-6541bd05ba9d" name="Changes" comment="-SOLID PRINCIPLES PRACTISE PART - 1">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Officer.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Program.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Program.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +16,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin Interface" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -61,11 +56,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698610857782</updated>
-      <workItem from="1698610858786" duration="2946000" />
+      <workItem from="1698610858786" duration="3406000" />
     </task>
+    <task id="LOCAL-00001" summary="-SOLID PRINCIPLES PRACTISE PART - 1">
+      <option name="closed" value="true" />
+      <created>1698614035889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698614035889</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-SOLID PRINCIPLES PRACTISE PART - 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="-SOLID PRINCIPLES PRACTISE PART - 1" />
   </component>
 </project>
